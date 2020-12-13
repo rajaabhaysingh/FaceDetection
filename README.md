@@ -6,7 +6,7 @@
 
 We have used WIDER dataset for training our YOLOFace model. We are providing a pre-trained model under _model-weights/yolov3-wider_16000.weights_, but you can train your own model too.
 
-**We have added Image processing techniques to pre-process **
+**We have added Image processing techniques to enhance face-detection capabilities under unfavourable conditions**
 
 ## Example output - simple detection
 
