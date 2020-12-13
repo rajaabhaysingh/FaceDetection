@@ -101,10 +101,6 @@ $ python yoloface.py --video samples/video.mp4 --output-dir outputs/
 ```
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
-
 ## References
 
 YOLOFace-(v3)
